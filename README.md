@@ -29,15 +29,15 @@
 
 # Deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/No-OnE-Kn0wS-Me/FileRenameBot)
+[![Deploy](https://www.herokucdn.com/deploy?template=https://github.com/nishnaml/renamer-tom/button.svg)](https://heroku.com/deploy?template=https://github.com/No-OnE-Kn0wS-Me/FileRenameBot)
 
 # Required Strings :-
 
-* -> `TG_BOT_TOKEN`<br> **Your Bot Token Taken From [@BotFather](https://t.me/botfather)**
+* -> `5372935595:AAFbi7kOy0B-CwcrIyNSk0X9XEy-thwDPoA`<br> **Your Bot Token Taken From [@BotFather](https://t.me/botfather)**
 
-* -> `UPDATE_CHANNEL`<br> **An Channel Username Which You Want to Use As An ForceSub Channel Put It Without @**
+* -> `-1001636272639`<br> **An Channel Username Which You Want to Use As An ForceSub Channel Put It Without @**
 
-* -> `APP_ID`__And__ `API_HASH`<br>**Get It From [Here](http://www.my.telegram.org) or [@UseTGXBot](http://www.telegram.dog/UseTGXBot)**
+* -> `9160462`__And__ `00f291e17b651afe23f3a59feb928bc4`<br>**Get It From [Here](http://www.my.telegram.org) or [@UseTGXBot](http://www.telegram.dog/UseTGXBot)**
 
 ## Credits, and Thanks to Beloved Developers ;
 
