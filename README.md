@@ -29,7 +29,7 @@
 
 # Deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy?template=https://github.com/nishnaml/renamer-tom/button.svg)](https://heroku.com/deploy?template=https://github.com/No-OnE-Kn0wS-Me/FileRenameBot)
+[![Deploy](https://www.herokucdn.com/deploy?template=https://github.com/nishnaml/renamer-tom/button.svg)](https://heroku.com/deploy?template=https://github.com/nishnaml/renamer-tom)
 
 # Required Strings :-
 
